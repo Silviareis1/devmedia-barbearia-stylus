@@ -48,7 +48,7 @@ h3 {
 
 p {
    font-size: 18px;
-   line-height: 32px;
+   line-height: 25px;
    text-align: justify;
    color: #616163;
    margin-bottom: 35px;
@@ -69,11 +69,18 @@ section {
    padding: 10px;
    margin-top: 10px;
 }
+
 footer {
    background-color: #606062;
    color: white;
-   padding: 20px;
+   padding: 10px;
    margin-top: 30px;
-   font-size: 14px;
    border-top: 3px solid #7a797b;
+}
+
+footer p {
+   line-height: 5px;
+   font-size: 14px;
+   color: white;
+   text-align: center;
 }
