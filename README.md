@@ -32,10 +32,10 @@ Este projeto possui uma estrutura simples e pode ser visualizado corretamente em
 ## 🔗 Links do Projeto
 
 - 🌐 **GitHub Pages:**  
-  [https://seu-usuario.github.io/nome-do-repositorio](https://seu-usuario.github.io/nome-do-repositorio)
+  [https://seu-usuario.github.io/nome-do-repositorio](https://silviareis1.github.io/devmedia-barbearia-stylus/)
 
 - 💻 **Repositório no GitHub:**  
-  [https://github.com/seu-usuario/nome-do-repositorio](https://github.com/seu-usuario/nome-do-repositorio)
+  [https://github.com/seu-usuario/nome-do-repositorio](https://github.com/Silviareis1/devmedia-barbearia-stylus)
 
 ## 📬 Contato
 
